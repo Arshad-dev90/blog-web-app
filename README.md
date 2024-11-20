@@ -1,6 +1,4 @@
-## Live Demo  
 
-Check out the live version of the blog web application: [blog](https://blog-web-app-nine.vercel.app/)
 
 
 # Blog Web Application  
