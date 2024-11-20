@@ -25,7 +25,6 @@ function PostForm({ post }) {
       if (post) {
         const file = data.image[0] ? await AppService.uploadFile(data.image[0]) : null;
 
-        console.log(post.featuredimg);
   
         if (file) {
           AppService.deleteFile(post.featuredimg);
